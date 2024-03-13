@@ -1,0 +1,110 @@
+body{
+    
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, 
+    rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.ContenedorPrincipal{
+    background-color: black;
+    display: flex;
+
+}
+.container1{
+    background-color: #990A04;
+    width: 290px;
+    height: 635px;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    float: left;
+    
+}
+.caja1{
+    position: relative;
+    background-color: #F35327;
+    width: 106px;
+    height: 270px;
+    margin: 10px;
+    display: inline-block;
+}
+.caja2{
+    background-color: #F35327;
+    width: 106px;
+    height: 270px;
+    margin: 10px;
+}
+
+
+
+
+.container2{
+    background-color: #1728F0;
+    width: 350px;
+    height: 640px;
+    margin: 10px;
+    flex-grow: 5;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+}
+.caja21{
+    background-color: #17F045;
+    width: 160px;
+    margin: 17px;
+    line-height: 175px;
+    
+}
+
+.container3{
+    background-color: purple;
+    width: 280px;
+    height: 630px;
+    margin: 25px;
+    display: inline-block;
+    display: inline;
+    flex-wrap: wrap;
+    float: left;
+}
+.caja31{
+    background-color: palevioletred;
+    width: 240px;
+    height: 95px;
+    margin: 20px;
+    display: inline-block;
+}
+.caja32{
+    background-color: palevioletred;
+    width: 85px;
+    height: 150px;
+    margin: 10px;
+    display: inline-block;
+}
+.caja33{
+    background-color: palevioletred;
+    width: 85px;
+    height: 150px;
+    margin: 10px;
+    display: inline-block;
+}
+.caja34{
+    background-color: palevioletred;
+    width: 240px;
+    height: 95px;
+    margin: 20px;
+    display: inline-block;
+}
+.caja35{
+    background-color: palevioletred;
+    width: 85px;
+    height: 150px;
+    margin: 10px;
+    display: inline-block;
+}
+.caja36{
+    background-color: palevioletred;
+    width: 85px;
+    height: 150px;
+    margin: 10px;
+    display: inline-block;
+}
